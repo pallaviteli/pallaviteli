@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pallavi
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
 - 📫 https://pallaviteli.wordpress.com
 
 <!---
